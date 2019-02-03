@@ -1,0 +1,39 @@
+body {
+    background-repeat: no-repeat;
+    background-image: url("pvs.png");
+    background-position: top;
+    width: 500px;
+    height:500px;
+    
+}
+
+
+
+h1 {
+    position: relative;
+    left: 500px;
+
+}
+h2 { position: relative;
+    left: 250px;
+    top: 150px;
+
+}
+
+nav{
+    margin-top: 1in;
+
+}
+
+p {
+    color: orange
+}
+
+head {
+    color: rgba(245, 121, 72, 0.938)
+}
+
+footer {
+    footer-position: bottom;
+
+}
